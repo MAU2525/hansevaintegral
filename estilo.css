@@ -1,0 +1,36 @@
+header img {
+    width: 100%;
+}
+
+.card-img-top {
+    max-width: 300px;
+}
+
+footer {
+    background-color: black;
+    color: white;
+    padding: 1rem 0;
+    text-align: center;
+}
+form .form-control,
+form .form-check-input {
+    border-radius: 0.5rem;
+}
+
+form .btn {
+    padding: 0.5rem 1.5rem;
+}
+
+.table-hover tbody tr:hover {
+    background-color: #f1f1f1;
+}
+
+footer {
+    background-color: #212529;
+    color: white;
+    text-align: center;
+    padding: 1rem 0;
+}
+h6{
+  font-size: 30px;
+}
