@@ -34,3 +34,13 @@ footer {
 h6{
   font-size: 30px;
 }
+@font-face{
+    font-family: "samsung";
+    src: url(fuentes/samsung-font.ttf);
+    font-weight: bold;
+    font-style: bold;
+}
+p2{
+    font-family: "samsung";
+    font-weight: bold;
+}
